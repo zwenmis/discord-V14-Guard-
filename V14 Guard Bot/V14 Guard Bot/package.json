@@ -1,0 +1,43 @@
+{
+  "name": "Zwen-v14-guard-bot",
+  "version": "1.0.0",
+  "description": "Zwen V14 Guard Bot",
+  "main": "Zwenp.js",
+  "scripts": {
+    "start": "node Zwen.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "guard",
+    "v14",
+    "advanced",
+    "discord-guard",
+    "discord-v14-guard",
+    "discord-advanced-guard",
+    "discord-v14",
+    "v14-guard",
+    "guard-bots",
+    "bots",
+    "discord-bots",
+    "CraxShop",
+    "Keskin",
+    "keskinreal"
+  ],
+  "author": {
+    "name": "Keskin",
+    "url": ""
+  },
+  "dependencies": {
+    "cherry3": "^5.2.0",
+    "cherry3-lite": "^2.0.0",
+    "discord-anti-spam": "^2.8.1",
+    "discord-bettermarkdown": "^2.1.1",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "five.db": "^0.0.9",
+    "node-schedule": "^2.1.1",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.7"
+  }
+}
